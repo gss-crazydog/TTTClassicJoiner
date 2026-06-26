@@ -13,7 +13,6 @@ if (typeof GMSERVER_IP === 'undefined') {
 /* Apply appearance settings where applicable */
 if (!SHOW_TITLE) document.getElementById("title").style.display = "none";
 if (!SHOW_MIDDLE_IMAGE) document.getElementById("titleimg").style.display = "none";
-if (!ANIMATED_BACKGROUND) document.getElementById("background").style.animation = "none";
 if (ANIMATED_TITLE) {
 	let title = document.getElementById("title");
 	let titleimg = document.getElementById("titleimg");
