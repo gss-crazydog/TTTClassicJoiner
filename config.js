@@ -42,14 +42,14 @@ LIGHT_MODE = false;
 // Whether or not the title should be shown in the middle of the page
 SHOW_TITLE = true;
 // Sets the title of the page
-PAGE_TITLE = "GModJoiner";
+PAGE_TITLE = "TTT Classic";
 
 // Whether or not the image should be shown in the middle of the page
 SHOW_MIDDLE_IMAGE = true;
 // Sets the image in the middle of the page
 // You can use a local image or a URL. If you want to use a local image, put it in the misc folder.
 // Example: "misc/your-image.jpg"
-MIDDLE_IMAGE = "misc/gmod_joiner.png";
+MIDDLE_IMAGE = "misc/Shortcut-Icon.png";
 
 // Sets whether or not the background should be animated
 ANIMATED_BACKGROUND = true;
@@ -74,9 +74,9 @@ SHOW_STEAM_CONNECT = true;
 // Show the direct connect help? (IP:PORT)
 SHOW_DIRECT_CONNECT = true;
 // Show the Counter-Strike: Source content help?
-SHOW_CSS_CONTENT = true;
+SHOW_CSS_CONTENT = false;
 
 // Show Credits?
-SHOW_CREDITS = true;
+SHOW_CREDITS = false;
 // Custom credits text
 CREDITS_TEXT = "";
