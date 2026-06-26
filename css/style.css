@@ -50,7 +50,7 @@ body {
     right: 0;
     min-height: 60px;
     height: 0px;
-    background: rgba(131, 0, 145, 0.27);
+    background: rgb(145 0 0 / 27%);
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -83,7 +83,7 @@ body {
 }
 
 .footer .footeritem a {
-    color: #d9d7ff;
+    color: #ffffff;
 }
 
 .footer .footeritem a:hover {
@@ -133,7 +133,7 @@ body {
 }
 
 .button {
-    background-color: rgba(193, 63, 207, 0.47);
+    background-color: rgb(207 63 63 / 47%);
     border: none;
     color: white;
     text-align: center;
