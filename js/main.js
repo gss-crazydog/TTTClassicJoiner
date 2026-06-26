@@ -116,7 +116,7 @@ if (!pass) pass = "";
 // Only if ip is provided, we can do everything else
 if(ip) {
 	// Steam Connect Url
-	let steamconnectUrl = "steam://connect/" + ip + ":" + port;
+	let steamconnectUrl = "steam://run/4570530/" + ip + ":" + port;
 	if (pass != "") steamconnectUrl += "/" + pass;
 	// GMod Command
 	let gmodcmd = "connect " + ip + ":" + port;
