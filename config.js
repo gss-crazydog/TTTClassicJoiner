@@ -52,9 +52,9 @@ SHOW_MIDDLE_IMAGE = true;
 MIDDLE_IMAGE = "misc/Shortcut-Icon.png";
 
 // Sets whether or not the background should be animated
-ANIMATED_BACKGROUND = true;
+ANIMATED_BACKGROUND = false;
 // Wheter or not the title and image should be animated (parallax effect)
-ANIMATED_TITLE = true;
+ANIMATED_TITLE = false;
 
 
 /**
